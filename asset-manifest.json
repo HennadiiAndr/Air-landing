@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/air-landing/static/css/main.06f436c6.css",
+    "main.js": "/air-landing/static/js/main.2b4f6a44.js",
+    "static/media/slider-Photo.png": "/air-landing/static/media/slider-Photo.af8b20ec406158050df7.png",
+    "static/media/image3.png": "/air-landing/static/media/image3.d691706843ceb8a9c3ba.png",
+    "static/media/image2.png": "/air-landing/static/media/image2.e84a771db169d5f2da8a.png",
+    "static/media/image1.png": "/air-landing/static/media/image1.03f254c10ab82cf90498.png",
+    "static/media/Rectangle_13.png": "/air-landing/static/media/Rectangle_13.aec2e41da23e7286487b.png",
+    "static/media/Rectangle_15.png": "/air-landing/static/media/Rectangle_15.c7f9530916cfc557f6d6.png",
+    "static/media/Rectangle_14.png": "/air-landing/static/media/Rectangle_14.17fab9667ed2e32d8cc0.png",
+    "index.html": "/air-landing/index.html",
+    "main.06f436c6.css.map": "/air-landing/static/css/main.06f436c6.css.map",
+    "main.2b4f6a44.js.map": "/air-landing/static/js/main.2b4f6a44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06f436c6.css",
+    "static/js/main.2b4f6a44.js"
+  ]
+}
